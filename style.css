@@ -132,3 +132,23 @@ main {
     height: 200px;
 
 }
+
+footer{
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    /* justify-items: center; */
+    align-items: baseline;
+}
+
+#f_link{
+    justify-content: center;
+}
+
+#f_link ul{
+    line-height: 30px;
+    list-style: none;
+
+}

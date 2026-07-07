@@ -21,8 +21,8 @@ header {
 }
 
 #search input {
-  width: 400px;
-  height: 35px;
+  width: 25rem;
+  height: 2.188rem;
   background-color: rgb(231, 231, 231);
   border: 4px solid rgb(231, 231, 231);
   border-radius: 4px;
@@ -142,8 +142,8 @@ main {
   height: 200px;
 }
 
-.deal p{
-    margin: 0;
+.deal p {
+  margin: 0;
 }
 
 footer {

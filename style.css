@@ -128,7 +128,7 @@ main {
   justify-items: center;
   align-content: center;
   column-gap: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .deal {
@@ -138,8 +138,12 @@ main {
 }
 
 .deal img {
-  width: 180px;
+  width: 160px;
   height: 200px;
+}
+
+.deal p{
+    margin: 0;
 }
 
 footer {

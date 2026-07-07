@@ -85,6 +85,7 @@ main {
   align-content: center;
   gap: 20px;
   font-size: 1rem;
+  font-weight: 500;
 }
 
 .item {
